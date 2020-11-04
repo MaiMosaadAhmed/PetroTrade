@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HxrFml5RW2FgvM4gv21ozCqkBanpoGrhsbcQdRN3ksu5drbY6HhRDNgVxNsE7ZZxivpuQvNl+AJlLO+hvQE1KQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mai\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mai\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.8\\microsoft.netcore.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\Mai\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.8\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\Mai\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.8\\microsoft.aspnetcore.app.runtime.win-x64.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
