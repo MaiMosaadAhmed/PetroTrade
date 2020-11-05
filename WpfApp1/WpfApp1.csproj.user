@@ -10,39 +10,45 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="wComplaint.xaml.cs">
+    <Compile Update="View\loginScreen.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="wOnlinPayment.xaml.cs">
+    <Compile Update="View\wComplaint.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="wPayment.xaml.cs">
+    <Compile Update="View\wOnlinPayment.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="wQuery.xaml.cs">
+    <Compile Update="View\wPayment.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="wReading.xaml.cs">
+    <Compile Update="View\wQuery.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\wReading.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="MainWindow.xaml">
+    <Page Update="View\loginScreen.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="wComplaint.xaml">
+    <Page Update="View\MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="wOnlinPayment.xaml">
+    <Page Update="View\wComplaint.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="wPayment.xaml">
+    <Page Update="View\wOnlinPayment.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="wQuery.xaml">
+    <Page Update="View\wPayment.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="wReading.xaml">
+    <Page Update="View\wQuery.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\wReading.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
