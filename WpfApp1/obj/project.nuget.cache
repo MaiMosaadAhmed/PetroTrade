@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2HTMEp5pPfIufgsRxfbUjYXB+eM5Jyhn8Aped0Xli5WErtjDe6CDh5vtSQIeTZt76PkPhZeSNr+uOb+AThHxWA==",
+  "dgSpecHash": "CCcBdcN/OH9IYYF7ZkLmI5AKyx1du6RLQ6WakSFXy8l6L/HwIWPKLGcyaGmsMlGEXbuxKd+3Y4vkZcEHxp1j4g==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\petrotrade\\PetroTrade\\WpfApp1\\WpfApp1.csproj",
+  "projectFilePath": "E:\\New folder (2)\\PetroTrade\\WpfApp1\\WpfApp1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ali\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
-    "C:\\Users\\Ali\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512"
+    "C:\\Users\\padmin\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\padmin\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512"
   ],
   "logs": []
 }

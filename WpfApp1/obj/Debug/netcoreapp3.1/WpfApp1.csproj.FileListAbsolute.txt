@@ -148,3 +148,37 @@ D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj
 D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
 D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\loginScreen.g.cs
 D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\loginScreen.baml
+E:\New folder (2)\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+E:\New folder (2)\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+E:\New folder (2)\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+E:\New folder (2)\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+E:\New folder (2)\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+E:\New folder (2)\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+E:\New folder (2)\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+E:\New folder (2)\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\loginScreen.g.cs
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wComplaint.g.cs
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wOnlinPayment.g.cs
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wPayment.g.cs
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wQuery.g.cs
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wReading.g.cs
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\loginScreen.baml
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wComplaint.baml
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wOnlinPayment.baml
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wPayment.baml
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wQuery.baml
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wReading.baml
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CopyComplete
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
