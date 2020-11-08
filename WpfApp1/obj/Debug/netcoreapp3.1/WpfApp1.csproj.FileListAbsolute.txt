@@ -143,8 +143,9 @@ D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wReading.
 D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
 D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
 D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
-D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
 D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CopyComplete
 D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
 D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\loginScreen.g.cs
 D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\loginScreen.baml
+D:\Projects\petrotrade\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\WpfAutoGrid.dll
+D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache

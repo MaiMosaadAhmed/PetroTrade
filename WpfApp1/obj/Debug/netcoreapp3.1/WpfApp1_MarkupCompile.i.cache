@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 D:\Projects\petrotrade\PetroTrade\WpfApp1\App.xaml
-7582068046
+8-1175344218
 
-11-1218650962
-194-277748840
-View\loginScreen.xaml;View\MainWindow.xaml;View\wComplaint.xaml;View\wOnlinPayment.xaml;View\wPayment.xaml;View\wQuery.xaml;View\wReading.xaml;
+12-1176073157
+1951049375627
+View\loginScreen.xaml;View\MainScreen.xaml;View\MainWindow.xaml;View\wComplaint.xaml;View\wOnlinPayment.xaml;View\wPayment.xaml;View\wQuery.xaml;View\wReading.xaml;
 
 False
 
