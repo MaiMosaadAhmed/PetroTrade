@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Projects\petrotrade\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\
 WpfApp1
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-D:\Projects\petrotrade\PetroTrade\WpfApp1\App.xaml
-9-1033336476
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\App.xaml
+10996810825
 
-13-432707820
-1951049375627
-View\loginScreen.xaml;View\MainScreen.xaml;View\MainWindow.xaml;View\submitReading.xaml;View\wComplaint.xaml;View\wOnlinPayment.xaml;View\wPayment.xaml;View\wQuery.xaml;View\wReading.xaml;
+14-1200962057
+1951521475774
+View\InquiryScreen.xaml;View\loginScreen.xaml;View\MainScreen.xaml;View\MainWindow.xaml;View\submitReading.xaml;View\wComplaint.xaml;View\wOnlinPayment.xaml;View\wPayment.xaml;View\wQuery.xaml;View\wReading.xaml;
 
 False
 

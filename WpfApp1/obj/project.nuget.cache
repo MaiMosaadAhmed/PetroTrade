@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VPPUuWY/DEMesiHBSBObHjy/n+02/NoCy6f2KrBNFlq3Q4tLXbqvOo0wl/kuMhpv+PooU4pOeElCDVio+/MbNg==",
+  "dgSpecHash": "NnINT7gVXPDYQb6S2f9DylLW9q4ezi6y+DiJKDbaVjplG4guvnaeGu3i81Km5+ZyGhlX4VNaTZX4pfF0LfKvgA==",
   "success": true,
-  "projectFilePath": "E:\\New folder (2)\\PetroTrade\\WpfApp1\\WpfApp1.csproj",
+  "projectFilePath": "C:\\Users\\Mai\\Source\\Repos\\PetroTrade\\WpfApp1\\WpfApp1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\padmin\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
-    "C:\\Users\\padmin\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512",
-    "C:\\Users\\padmin\\.nuget\\packages\\wpfautogrid\\1.4.0\\wpfautogrid.1.4.0.nupkg.sha512"
+    "C:\\Users\\Mai\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\Mai\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512",
+    "C:\\Users\\Mai\\.nuget\\packages\\wpfautogrid\\1.4.0\\wpfautogrid.1.4.0.nupkg.sha512"
   ],
   "logs": [
     {

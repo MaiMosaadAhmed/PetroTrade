@@ -188,3 +188,42 @@ E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.Copy
 E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
 E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
 E:\New folder (2)\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\bin\Debug\netcoreapp3.1\WpfAutoGrid.dll
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\loginScreen.g.cs
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\MainScreen.g.cs
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\submitReading.g.cs
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wComplaint.g.cs
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wOnlinPayment.g.cs
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wPayment.g.cs
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wQuery.g.cs
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wReading.g.cs
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\loginScreen.baml
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\MainScreen.baml
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\submitReading.baml
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wComplaint.baml
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wOnlinPayment.baml
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wPayment.baml
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wQuery.baml
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\View\wReading.baml
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CopyComplete
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\Mai\Source\Repos\PetroTrade\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
