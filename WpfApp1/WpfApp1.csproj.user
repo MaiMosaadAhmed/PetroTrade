@@ -10,6 +10,9 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="View\InquiryScreen.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="View\loginScreen.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -33,6 +36,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="View\InquiryScreen.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="View\loginScreen.xaml">
       <SubType>Designer</SubType>
     </Page>
