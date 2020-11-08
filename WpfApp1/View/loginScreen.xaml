@@ -4,7 +4,9 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1.View"
-        mc:Ignorable="d" Height="800" Width="700" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+        mc:Ignorable="d" Height="800" Width="700" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowState="Maximized"
+        FocusManager.FocusedElement="{Binding ElementName=BOX1}"
+        >
     <Grid>
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
@@ -19,18 +21,18 @@
             <TextBlock Text="شركة الخدمات التجارية البترولية" Margin="0,20,0,0" FontStyle="Italic" HorizontalAlignment="Center" FontFamily="Cooper Black" FontSize="24" FontWeight="Bold" />
 
             <TextBlock Text="ادخل رقم الاشتراك" Margin="0,50,0,0" HorizontalAlignment="Center" FontFamily="Cooper Black" FontSize="24" FontWeight="Bold" />
-            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center"  Margin="90" 
-                >
-                <TextBox   InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
-                <TextBox   InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
-                <TextBox   InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
-                <TextBox   InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
-                <TextBox   InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
-                <TextBox   InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
-                <TextBox   InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
-                <TextBox   InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center"  Margin="90" >
+                <TextBox   Name="BOX1" InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap" TextChanged="BOX1_TextChanged_1" />
+                <TextBox   Name="BOX2" InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
+                <TextBox   Name="BOX3" InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
+                <TextBox   Name="BOX4" InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
+                <TextBox   Name="BOX5" InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
+                <TextBox   Name="BOX6" InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
+                <TextBox   Name="BOX7" InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
+                <TextBox   Name="BOX8" InputMethod.InputScope="Digits" MaxLength="2" Width="30" Height="40" Margin="4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontStretch="Medium" MaxLines="1" TextWrapping="Wrap"/>
             </StackPanel>
-
+            
+            
             <Button Margin="100" Content="تسجيل الدخول" HorizontalAlignment="Stretch" Height="50"  Background="#FF014316" FontSize="16" Foreground="White" FontWeight="Bold" BorderBrush="#FF1C6C68" Width="300"/>
 
         </StackPanel>

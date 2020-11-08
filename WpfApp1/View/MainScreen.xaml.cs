@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -14,20 +13,13 @@ using System.Windows.Shapes;
 namespace WpfApp1.View
 {
     /// <summary>
-    /// Interaction logic for loginScreen.xaml
+    /// Interaction logic for MainScreen.xaml
     /// </summary>
-    public partial class loginScreen : Window
+    public partial class MainScreen : Window
     {
-        public loginScreen()
+        public MainScreen()
         {
             InitializeComponent();
-        }
-
-        private void BOX1_TextChanged_1(object sender, TextChangedEventArgs e)
-        {
-            
-                MoveFocus(new TraversalRequest(FocusNavigationDirection.Next));
-           
         }
     }
 }
